@@ -9,3 +9,4 @@ cd Safeum
 ```python
 python Auto-create.py
 ``` 
+![Screenshot_20241014-112901](https://github.com/user-attachments/assets/f270cc6c-de70-4aef-aee6-63e3cfd712a2)
